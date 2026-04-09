@@ -1,0 +1,46 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+    <linearGradient id="faceGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" rx="180" fill="url(#bg)" />
+  <circle cx="600" cy="380" r="320" fill="url(#faceGlow)" opacity="0.35" />
+  <ellipse cx="600" cy="380" rx="260" ry="330" fill="#f8fafc" />
+
+  <path d="M300 920C300 900 480 780 600 780C720 780 900 900 900 920V980H300V920Z" fill="#1f2937" />
+  <path d="M375 920C375 880 450 820 600 820C750 820 825 880 825 920V980H375V920Z" fill="#ffffff" />
+  <path d="M350 680C350 540 450 470 600 470C750 470 850 540 850 680V760H350V680Z" fill="#e2e8f0" />
+  <path d="M350 680C350 560 430 500 600 500C770 500 850 560 850 680V760H350V680Z" fill="#111827" opacity="0.08" />
+
+  <ellipse cx="600" cy="320" rx="210" ry="230" fill="#f8d5b3" />
+  <path d="M420 290C420 220 490 170 600 170C710 170 780 220 780 290C780 360 700 410 600 410C500 410 420 360 420 290Z" fill="#1f2937" />
+  <path d="M450 260C450 220 520 190 600 190C680 190 740 220 740 260C740 280 700 300 600 300C500 300 450 280 450 260Z" fill="#111827" />
+
+  <circle cx="530" cy="320" r="28" fill="#1f2937" />
+  <circle cx="670" cy="320" r="28" fill="#1f2937" />
+  <path d="M520 360C520 360 560 390 600 390C640 390 680 360 680 360" stroke="#1f2937" stroke-width="16" stroke-linecap="round" />
+  <path d="M530 400C530 400 570 430 600 430C630 430 670 400 670 400" stroke="#1f2937" stroke-width="8" stroke-linecap="round" opacity="0.65" />
+  <path d="M600 220C650 220 690 260 690 310" stroke="#1f2937" stroke-width="12" stroke-linecap="round" opacity="0.6" />
+
+  <path d="M470 480C470 450 500 420 600 420C700 420 730 450 730 480" fill="#f1f5f9" />
+  <path d="M470 480C470 450 510 430 600 430C690 430 730 450 730 480" fill="#1f2937" opacity="0.08" />
+
+  <path d="M420 520C420 480 520 450 600 450C680 450 780 480 780 520C780 560 700 610 600 610C500 610 420 560 420 520Z" fill="#f8d5b3" />
+  <path d="M520 565C520 565 560 595 600 595C640 595 680 565 680 565" stroke="#1f2937" stroke-width="12" stroke-linecap="round" />
+
+  <path d="M480 700C480 680 520 660 600 660C680 660 720 680 720 700" stroke="#111827" stroke-width="16" stroke-linecap="round" opacity="0.7" />
+
+  <path d="M345 880L455 760L635 760L755 880" fill="#111827" opacity="0.1" />
+  <path d="M480 850L720 850C740 850 760 865 760 885V930H440V885C440 865 460 850 480 850Z" fill="#111827" />
+  <path d="M570 870L660 870L650 920L580 920" fill="#2563eb" />
+  <path d="M510 860L690 860L680 900L520 900" fill="#ffffff" />
+
+  <rect x="210" y="980" width="780" height="140" rx="70" fill="#ffffff" fill-opacity="0.14" />
+  <text x="600" y="1050" text-anchor="middle" font-family="Inter, sans-serif" font-size="68" fill="#ffffff" font-weight="700">Senior AI Engineer</text>
+</svg>
